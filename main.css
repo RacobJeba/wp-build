@@ -1,6 +1,9 @@
-li{display:inline;
+.container{
+    width:60%;
 }
-li a {
-    color: black;
-    text-decoration: 
+.jumbotron{
+    text-align:center;
+}
+.jumbotron .btn{
+    color: #FFF !important;
 }
